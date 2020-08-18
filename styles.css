@@ -1,0 +1,68 @@
+body {
+  background: #fce4ec;
+  color: #3d3d3d;
+  font-family: 'Poppins', sans-serif';
+    margin: 0 auto 0 auto;
+}
+label {
+  margin-left:20px;
+  display:flex;
+  font-size:1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+#title {
+  text-align: center;
+  margin-top: 40px;
+}
+input[type=radio]{
+  float:left;
+}
+#description {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.4rem;
+}
+
+form {
+  background-color: #1b1b32;
+  color: white;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}
+#dropdown {
+  width: 80%;
+  height: 2.0rem;
+  margin: 7px auto 0 27px;
+}
+#radio {
+  text-align: left;
+  display:inline-block;
+  vertical-align:top;
+}
+
+input {
+  width: 80%;
+  height: 1.7rem;
+  color: black;
+  margin: 7px auto 0 27px;
+  display:inline-block;
+}
+
+textarea {
+  margin-left:20px;
+  width: 80%;
+}
+button {
+  width: 90%;
+  height: 2.3rem;
+  background: #37af65;
+  display: block;
+  margin: 0 auto 0 auto;
+  color: white;
+  height:40px;
+  border-radius: 5px;
+}
+
